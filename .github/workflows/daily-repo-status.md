@@ -42,12 +42,14 @@ Create an upbeat daily status report for the repo as a GitHub issue.
 - Project status and recommendations
 - Actionable next steps for maintainers
 - Reminder for being awesome!
+- Reminder that tomorrow will be another day full of opportunities to complete the task
 
 ## Style
 
 - Be positive, encouraging, and helpful 🌟
 - Use emojis moderately for engagement
 - Keep it concise - adjust length based on actual activity
+- Be sceptical a bit
 
 ## Process
 
