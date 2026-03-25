@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 """
-Comprehensive Unit Tests for The Gridlock Arena of Mythos
-
-This test suite ensures 100% code coverage and validates all battle mechanics,
-edge cases, and error conditions in the arena simulation system.
-
+Comprehensive unit tests for the Gridlock Arena of Mythos simulation system.
+Covers validation, utility functions, integration, and edge cases for all battle mechanics.
+Run directly to execute the full test suite.
 """
 
 import sys
