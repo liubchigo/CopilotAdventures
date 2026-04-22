@@ -26,7 +26,8 @@ Welcome! Copilot Adventures is a friendly collection of fantasy-themed coding ch
 
 ## Share your work
 
-Have an idea or solution to share? We’d love to see it. Open an issue or submit a PR using:
+Have a solution to share? Please open an issue.  
+Have a brand-new adventure to contribute? Please submit a PR with:
 `New Copilot Adventure: [Your Adventure Name]`.
 
 Need help? Join the [Azure AI Foundry Discord](https://aka.ms/foundry/discord) or visit the [Developer Forum](https://aka.ms/foundry/forum).

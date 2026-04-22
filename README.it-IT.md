@@ -26,7 +26,8 @@ Benvenuto! Copilot Adventures è una raccolta di sfide fantasy per imparare a pr
 
 ## Condividi la tua avventura
 
-Vuoi contribuire? Fantastico! Apri una issue o una PR con il titolo:
+Vuoi condividere una soluzione? Apri una issue.  
+Vuoi contribuire con una nuova avventura? Invia una PR con il titolo:
 `Nuova Avventura Copilot: [Nome della tua Avventura]`.
 
 Se ti serve aiuto, unisciti alla [Azure AI Foundry Discord](https://aka.ms/foundry/discord) o visita il [Developer Forum](https://aka.ms/foundry/forum).
