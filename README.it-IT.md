@@ -8,10 +8,10 @@ Benvenuto! Copilot Adventures è una raccolta di sfide fantasy per imparare a pr
 
 ## Inizia subito
 
-1. Apri un Codespace: https://codespaces.new/microsoft/CopilotAdventures  
+1. [Apri un Codespace](https://codespaces.new/microsoft/CopilotAdventures)  
    oppure clona in locale:
    ```bash
-   git clone https://github.com/microsoft/copilotadventures
+   git clone https://github.com/microsoft/CopilotAdventures
    ```
 2. Scegli il tuo percorso:
    - [Avventure Agent](./Adventures/Agent/)

@@ -8,10 +8,10 @@ Welcome! Copilot Adventures is a friendly collection of fantasy-themed coding ch
 
 ## Start your adventure
 
-1. Open a Codespace: https://codespaces.new/microsoft/CopilotAdventures  
+1. [Open a Codespace](https://codespaces.new/microsoft/CopilotAdventures)  
    or clone locally:
    ```bash
-   git clone https://github.com/microsoft/copilotadventures
+   git clone https://github.com/microsoft/CopilotAdventures
    ```
 2. Pick a path:
    - [Agent adventures](./Adventures/Agent/)
